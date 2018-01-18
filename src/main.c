@@ -10,7 +10,7 @@ int main()
 {
     while(1) {
         int n;
-        printf("Hello world\n\u269b\n");
+        printf("Small output\n\u269b\n");
         for( n=10 ; n>0 ; n-- ) {
             printf("%3d …",n);
             wait(0.50);
